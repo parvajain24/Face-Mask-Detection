@@ -4,7 +4,6 @@ Business Problem:
 
 In this new era where we experiencing a pandemic and people all around are advised to wear masks, some people are not used to it and are avoiding to wear masks. 
 The motivation behind this projects is that if we can take help of AI to detect people wearing or not wearing masks in public places, it would be helpful to increase our safety. 
-If deployed correctly, the mask detector could potentially be used to help ensure our safety.
 
 
 Problem Statement:
